@@ -6,3 +6,6 @@ Note: You have to run this on a webserver, since the Flash player complains/fail
 
 * [YouTube sample playground](http://code.google.com/apis/ajax/playground/?exp=youtube#chromeless_player)
 * [YouTube JS API Reference](http://code.google.com/apis/youtube/js_api_reference.html)
+
+PS I imagined that it would be smoother and more delightful, but this doesn't mimic handwaving (hence mousewaving) at all!
+
